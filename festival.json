@@ -1,0 +1,231 @@
+{
+  "year": 2026,
+  "defaultLang": "en",
+  "runningOrderExists": true,
+  "utcOffsetHours": 2,
+  "festivalDays": [
+    "2026-07-10",
+    "2026-07-11",
+    "2026-07-12"
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Tickets on sale",
+      "body": "Three-day passes and single-day tickets are available now. Early-bird pricing ends 2026-04-01.",
+      "date": "2026-02-15"
+    },
+    {
+      "id": "n2",
+      "title": "Camping spots opened",
+      "body": "Limited camping spots adjacent to the long-hall are now bookable. First-come, first-served.",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "n3",
+      "title": "Full running order published",
+      "body": "The complete running order for all three days is now live in the app.",
+      "date": "2026-05-01"
+    }
+  ],
+  "links": [
+    {
+      "id": "l1",
+      "label": "Website",
+      "url": "https://ragnaroek-festival.example/"
+    },
+    {
+      "id": "l2",
+      "label": "Tickets",
+      "url": "https://ragnaroek-festival.example/tickets"
+    },
+    {
+      "id": "l3",
+      "label": "Travel & Camping",
+      "url": "https://ragnaroek-festival.example/travel"
+    },
+    {
+      "id": "l4",
+      "label": "Instagram",
+      "url": "https://instagram.com/ragnaroek_festival_example"
+    }
+  ],
+  "artists": [
+    {
+      "id": "a1",
+      "name": "Berserkr",
+      "imageUrl": "https://metalrun.de/rf/10.png",
+      "description": "Thunderous Norwegian folk-metal quartet drawing on saga poetry and battle-march drum patterns. Their live shows close with a wall of horn calls."
+    },
+    {
+      "id": "a2",
+      "name": "Bjornholm",
+      "imageUrl": "https://metalrun.de/rf/09.png",
+      "description": "Atmospheric black-metal duo from the Faroe Islands. Glacial guitars and clean baritone vocals over slow, deliberate rhythms."
+    },
+    {
+      "id": "a3",
+      "name": "Drekka Sjór",
+      "imageUrl": "https://metalrun.de/rf/08.png",
+      "description": "Icelandic post-rock with rune-based song titles and an obsession for nine-minute crescendos."
+    },
+    {
+      "id": "a4",
+      "name": "Frost Giants",
+      "imageUrl": "https://metalrun.de/rf/07.png",
+      "description": "Six-piece pagan-folk ensemble. Nyckelharpa, frame drums, throat-singing and a stage built around a forge anvil."
+    },
+    {
+      "id": "a5",
+      "name": "Mjölnir Mark",
+      "imageUrl": "https://metalrun.de/rf/06.png",
+      "description": "Power-trio playing thunder-soaked stoner rock. Riffs broad enough to drag a longship across a dry beach."
+    },
+    {
+      "id": "a6",
+      "name": "Ragnar's Wrath",
+      "imageUrl": "https://metalrun.de/rf/05.png",
+      "description": "Crossover thrash from Gothenburg with hardcore breakdowns and a frontman who circles the pit barefoot."
+    },
+    {
+      "id": "a7",
+      "name": "Skalds of Asgard",
+      "imageUrl": "https://metalrun.de/rf/04.png",
+      "description": "Acoustic story-singers performing skaldic verse. Two voices, lyre, bone flute, no amplification beyond a single ribbon mic."
+    },
+    {
+      "id": "a8",
+      "name": "Valkyrjar",
+      "imageUrl": "https://metalrun.de/rf/03.png",
+      "description": "All-female symphonic metal sextet. Choral vocals, twin guitars, harp, and a stage show punctuated by spear-dancing."
+    },
+    {
+      "id": "a9",
+      "name": "Yggdrasil's Roots",
+      "imageUrl": "https://metalrun.de/rf/02.png",
+      "description": "Earth-toned doom from the Black Forest. Glacially slow, organ-driven, and best heard at sunset."
+    },
+    {
+      "id": "a10",
+      "name": "Black Sails",
+      "imageUrl": "https://metalrun.de/rf/01.png",
+      "description": "Sea-shanty hardcore with mandolin and trumpet. The headliner everyone leaves the merch tent for."
+    }
+  ],
+  "gigs": [
+    {
+      "id": "g1",
+      "artistId": "a7",
+      "dayDate": "2026-07-10",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "annotation": "Opening blessing performed before the first note."
+    },
+    {
+      "id": "g2",
+      "artistId": "a3",
+      "dayDate": "2026-07-10",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "annotation": null
+    },
+    {
+      "id": "g3",
+      "artistId": "a4",
+      "dayDate": "2026-07-10",
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "annotation": null
+    },
+    {
+      "id": "g4",
+      "artistId": "a2",
+      "dayDate": "2026-07-11",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "annotation": null
+    },
+    {
+      "id": "g5",
+      "artistId": "a9",
+      "dayDate": "2026-07-11",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "annotation": null
+    },
+    {
+      "id": "g6",
+      "artistId": "a5",
+      "dayDate": "2026-07-11",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "annotation": null
+    },
+    {
+      "id": "g7",
+      "artistId": "a8",
+      "dayDate": "2026-07-11",
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "annotation": "Swapped slots with Ragnar's Wrath."
+    },
+    {
+      "id": "g8",
+      "artistId": "a6",
+      "dayDate": "2026-07-12",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "annotation": "Swapped slots with Valkyrjar."
+    },
+    {
+      "id": "g9",
+      "artistId": "a1",
+      "dayDate": "2026-07-12",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "annotation": null
+    },
+    {
+      "id": "g10",
+      "artistId": "a10",
+      "dayDate": "2026-07-12",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "annotation": "Festival-closing set."
+    }
+  ],
+  "translations": [
+    {
+      "lang": "de",
+      "artists": [
+        {
+          "id": "a1",
+          "description": "Donnerndes norwegisches Folk-Metal-Quartett, das Sagenpoesie und Schlachtzug-Trommelrhythmen vereint. Ihre Live-Shows enden mit einem Chor aus Hornrufen."
+        }
+      ],
+      "news": [
+        {
+          "id": "n1",
+          "title": "Tickets im Verkauf",
+          "body": "Drei-Tages-Pässe und Einzeltageskarten sind jetzt erhältlich. Frühbucherpreise enden am 01.04.2026."
+        }
+      ],
+      "links": [
+        {
+          "id": "l1",
+          "url": "https://ragnaroek-festival.example/de/"
+        },
+        {
+          "id": "l3",
+          "label": "Anreise & Camping"
+        }
+      ],
+      "gigs": [
+        {
+          "id": "g1",
+          "annotation": "Eröffnungssegen vor dem ersten Ton."
+        }
+      ]
+    }
+  ]
+}
