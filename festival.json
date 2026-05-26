@@ -306,8 +306,8 @@
          "id":"g3",
          "artistId":"a4",
          "dayDate":"2026-07-10",
-         "startTime":"21:00",
-         "endTime":"22:30",
+         "startTime":"23:00",
+         "endTime":"00:30",
          "annotation":null
       },
       {
@@ -338,8 +338,8 @@
          "id":"g7",
          "artistId":"a8",
          "dayDate":"2026-07-11",
-         "startTime":"21:00",
-         "endTime":"22:30",
+         "startTime":"00:40",
+         "endTime":"01:30",
          "annotation":"Swapped slots with Ragnar's Wrath."
       },
       {
