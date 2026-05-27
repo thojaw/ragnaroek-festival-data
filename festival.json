@@ -1,462 +1,406 @@
 {
-   "year":2026,
-   "defaultLang":"en",
-   "runningOrderExists":true,
-   "utcOffsetHours":2,
-   "festivalDays":[
-      "2026-07-10",
-      "2026-07-11",
-      "2026-07-12"
-   ],
-   "news":[
-      {
-         "id":"n1",
-         "title":"Tickets on sale",
-         "body":"Three-day passes and single-day tickets are available now. Early-bird pricing ends 2026-04-01.",
-         "date":"2026-02-15"
-      },
-      {
-         "id":"n2",
-         "title":"Camping spots opened",
-         "body":"Limited camping spots adjacent to the long-hall are now bookable. First-come, first-served.",
-         "date":"2026-03-20"
-      },
-      {
-         "id":"n3",
-         "title":"Full running order published",
-         "body":"The complete running order for all three days is now live in the app.",
-         "date":"2026-05-01"
-      }
-   ],
-   "links":[
-      {
-         "id":"l1",
-         "label":"Website",
-         "url":"https://ragnaroek-festival.example/"
-      },
-      {
-         "id":"l2",
-         "label":"Tickets",
-         "url":"https://ragnaroek-festival.example/tickets"
-      },
-      {
-         "id":"l3",
-         "label":"Travel & Camping",
-         "url":"https://ragnaroek-festival.example/travel"
-      },
-      {
-         "id":"l4",
-         "label":"Instagram",
-         "url":"https://instagram.com/ragnaroek_festival_example",
-         "type":"instagram"
-      },
-      {
-         "id":"l5",
-         "label":"YouTube",
-         "url":"https://youtube.com/@ragnaroek_festival_example",
-         "type":"youtube"
-      },
-      {
-         "id":"l6",
-         "label":"Facebook",
-         "url":"https://facebook.com/ragnaroek.festival.example",
-         "type":"facebook"
-      },
-      {
-         "id":"la1",
-         "label":"Official Site",
-         "url":"https://berserkr.example.com",
-         "artistId":"a1"
-      },
-      {
-         "id":"la2",
-         "label":"Spotify",
-         "url":"https://open.spotify.com/artist/berserkr-example",
-         "type":"spotify",
-         "artistId":"a1"
-      },
-      {
-         "id":"la3",
-         "label":"Bandcamp",
-         "url":"https://berserkr.bandcamp.com",
-         "type":"bandcamp",
-         "artistId":"a1"
-      },
-      {
-         "id":"la4",
-         "label":"Instagram",
-         "url":"https://instagram.com/bjornholm_example",
-         "type":"instagram",
-         "artistId":"a2"
-      },
-      {
-         "id":"la5",
-         "label":"Bandcamp",
-         "url":"https://bjornholm.bandcamp.com",
-         "type":"bandcamp",
-         "artistId":"a2"
-      },
-      {
-         "id":"la6",
-         "label":"Spotify",
-         "url":"https://open.spotify.com/artist/drekka-sjor-example",
-         "type":"spotify",
-         "artistId":"a3"
-      },
-      {
-         "id":"la7",
-         "label":"YouTube",
-         "url":"https://youtube.com/@drekkasjor_example",
-         "type":"youtube",
-         "artistId":"a3"
-      },
-      {
-         "id":"la8",
-         "label":"Facebook",
-         "url":"https://facebook.com/frostgiants.example",
-         "type":"facebook",
-         "artistId":"a4"
-      },
-      {
-         "id":"la9",
-         "label":"SoundCloud",
-         "url":"https://soundcloud.com/frost-giants-example",
-         "type":"soundcloud",
-         "artistId":"a4"
-      },
-      {
-         "id":"la10",
-         "label":"Instagram",
-         "url":"https://instagram.com/mjolnir_mark_example",
-         "type":"instagram",
-         "artistId":"a5"
-      },
-      {
-         "id":"la11",
-         "label":"Spotify",
-         "url":"https://open.spotify.com/artist/mjolnir-mark-example",
-         "type":"spotify",
-         "artistId":"a5"
-      },
-      {
-         "id":"la12",
-         "label":"YouTube",
-         "url":"https://youtube.com/@ragnarswrath_example",
-         "type":"youtube",
-         "artistId":"a6"
-      },
-      {
-         "id":"la13",
-         "label":"Spotify",
-         "url":"https://open.spotify.com/artist/ragnars-wrath-example",
-         "type":"spotify",
-         "artistId":"a6"
-      },
-      {
-         "id":"la14",
-         "label":"Bandcamp",
-         "url":"https://skaldsofasgard.bandcamp.com",
-         "type":"bandcamp",
-         "artistId":"a7"
-      },
-      {
-         "id":"la15",
-         "label":"Spotify",
-         "url":"https://open.spotify.com/artist/valkyrjar-example",
-         "type":"spotify",
-         "artistId":"a8"
-      },
-      {
-         "id":"la16",
-         "label":"YouTube",
-         "url":"https://youtube.com/@valkyrjar_example",
-         "type":"youtube",
-         "artistId":"a8"
-      },
-      {
-         "id":"la17",
-         "label":"Instagram",
-         "url":"https://instagram.com/valkyrjar_example",
-         "type":"instagram",
-         "artistId":"a8"
-      },
-      {
-         "id":"la18",
-         "label":"SoundCloud",
-         "url":"https://soundcloud.com/yggdrasils-roots-example",
-         "type":"soundcloud",
-         "artistId":"a9"
-      },
-      {
-         "id":"la19",
-         "label":"Bandcamp",
-         "url":"https://yggdrasilsroots.bandcamp.com",
-         "type":"bandcamp",
-         "artistId":"a9"
-      },
-      {
-         "id":"la20",
-         "label":"Spotify",
-         "url":"https://open.spotify.com/artist/black-sails-example",
-         "type":"spotify",
-         "artistId":"a10"
-      },
-      {
-         "id":"la21",
-         "label":"YouTube",
-         "url":"https://youtube.com/@blacksails_example",
-         "type":"youtube",
-         "artistId":"a10"
-      },
-      {
-         "id":"la22",
-         "label":"Instagram",
-         "url":"https://instagram.com/blacksails_example",
-         "type":"instagram",
-         "artistId":"a10"
-      },
-      {
-         "id":"la23",
-         "label":"Discord",
-         "url":"https://discord.gg/blacksails-example",
-         "type":"discord",
-         "artistId":"a10"
-      }
-   ],
-   "artists":[
-      {
-         "id":"a1",
-         "name":"Berserkr",
-         "imageUrl":"https://metalrun.de/rf/10.png",
-         "description":"Thunderous Norwegian folk-metal quartet drawing on saga poetry and battle-march drum patterns. Their live shows close with a wall of horn calls."
-      },
-      {
-         "id":"a2",
-         "name":"Bjornholm",
-         "imageUrl":"https://metalrun.de/rf/09.png",
-         "description":"Atmospheric black-metal duo from the Faroe Islands. Glacial guitars and clean baritone vocals over slow, deliberate rhythms."
-      },
-      {
-         "id":"a3",
-         "name":"Drekka Sjór",
-         "imageUrl":"https://metalrun.de/rf/08.png",
-         "description":"Icelandic post-rock with rune-based song titles and an obsession for nine-minute crescendos."
-      },
-      {
-         "id":"a4",
-         "name":"Frost Giants",
-         "imageUrl":"https://metalrun.de/rf/07.png",
-         "description":"Six-piece pagan-folk ensemble. Nyckelharpa, frame drums, throat-singing and a stage built around a forge anvil."
-      },
-      {
-         "id":"a5",
-         "name":"Mjölnir Mark",
-         "imageUrl":"https://metalrun.de/rf/06.png",
-         "description":"Power-trio playing thunder-soaked stoner rock. Riffs broad enough to drag a longship across a dry beach."
-      },
-      {
-         "id":"a6",
-         "name":"Ragnar's Wrath",
-         "imageUrl":"https://metalrun.de/rf/05.png",
-         "description":"Crossover thrash from Gothenburg with hardcore breakdowns and a frontman who circles the pit barefoot."
-      },
-      {
-         "id":"a7",
-         "name":"Skalds of Asgard",
-         "imageUrl":"https://metalrun.de/rf/04.png",
-         "description":"Acoustic story-singers performing skaldic verse. Two voices, lyre, bone flute, no amplification beyond a single ribbon mic."
-      },
-      {
-         "id":"a8",
-         "name":"Valkyrjar",
-         "imageUrl":"https://metalrun.de/rf/03.png",
-         "description":"All-female symphonic metal sextet. Choral vocals, twin guitars, harp, and a stage show punctuated by spear-dancing."
-      },
-      {
-         "id":"a9",
-         "name":"Yggdrasil's Roots",
-         "imageUrl":"https://metalrun.de/rf/02.png",
-         "description":"Earth-toned doom from the Black Forest. Glacially slow, organ-driven, and best heard at sunset."
-      },
-      {
-         "id":"a10",
-         "name":"Black Sails",
-         "imageUrl":"https://metalrun.de/rf/01.png",
-         "description":"Sea-shanty hardcore with mandolin and trumpet. The headliner everyone leaves the merch tent for."
-      }
-   ],
-   "gigs":[
-      {
-         "id":"g1",
-         "artistId":"a7",
-         "dayDate":"2026-07-10",
-         "startTime":"18:00",
-         "endTime":"19:00",
-         "annotation":"Opening blessing performed before the first note."
-      },
-      {
-         "id":"g2",
-         "artistId":"a3",
-         "dayDate":"2026-07-10",
-         "startTime":"19:30",
-         "endTime":"20:30",
-         "annotation":null
-      },
-      {
-         "id":"g3",
-         "artistId":"a4",
-         "dayDate":"2026-07-10",
-         "startTime":"23:00",
-         "endTime":"00:30",
-         "annotation":null
-      },
-      {
-         "id":"g4",
-         "artistId":"a2",
-         "dayDate":"2026-07-11",
-         "startTime":"16:00",
-         "endTime":"17:00",
-         "annotation":null
-      },
-      {
-         "id":"g5",
-         "artistId":"a9",
-         "dayDate":"2026-07-11",
-         "startTime":"17:30",
-         "endTime":"18:30",
-         "annotation":null
-      },
-      {
-         "id":"g6",
-         "artistId":"a5",
-         "dayDate":"2026-07-11",
-         "startTime":"19:00",
-         "endTime":"20:00",
-         "annotation":null
-      },
-      {
-         "id":"g7",
-         "artistId":"a8",
-         "dayDate":"2026-07-11",
-         "startTime":"00:40",
-         "endTime":"01:30",
-         "annotation":"Swapped slots with Ragnar's Wrath."
-      },
-      {
-         "id":"g8",
-         "artistId":"a6",
-         "dayDate":"2026-07-12",
-         "startTime":"16:00",
-         "endTime":"17:00",
-         "annotation":"Swapped slots with Valkyrjar."
-      },
-      {
-         "id":"g9",
-         "artistId":"a1",
-         "dayDate":"2026-07-12",
-         "startTime":"17:30",
-         "endTime":"18:30",
-         "annotation":null
-      },
-      {
-         "id":"g10",
-         "artistId":"a10",
-         "dayDate":"2026-07-12",
-         "startTime":"19:00",
-         "endTime":"21:00",
-         "annotation":"Festival-closing set."
-      }
-   ],
-   "translations":[
-      {
-         "lang":"de",
-         "artists":[
-            {
-               "id":"a1",
-               "description":"Donnerndes norwegisches Folk-Metal-Quartett, das Sagenpoesie und Schlachtzug-Trommelrhythmen vereint. Ihre Live-Shows enden mit einem Chor aus Hornrufen."
-            },
-            {
-               "id":"a2",
-               "description":"Atmosphärisches Black-Metal-Duo von den Färöer-Inseln. Eisige Gitarren und klarer Baritongesang über langsamen, bedächtigen Rhythmen."
-            },
-            {
-               "id":"a3",
-               "description":"Isländischer Post-Rock mit runenbasierten Songtiteln und einer Vorliebe für neunminütige Crescendos."
-            },
-            {
-               "id":"a4",
-               "description":"Sechsköpfiges Pagan-Folk-Ensemble. Nyckelharpa, Rahmentrommeln, Obertongesang und eine Bühne rund um einen Schmiedeamboss."
-            },
-            {
-               "id":"a5",
-               "description":"Power-Trio mit donnerschwangerem Stoner Rock. Riffs, breit genug, um ein Langschiff über einen trockenen Strand zu ziehen."
-            },
-            {
-               "id":"a6",
-               "description":"Crossover-Thrash aus Göteborg mit Hardcore-Breakdowns und einem Frontmann, der den Pit barfuß umkreist."
-            },
-            {
-               "id":"a7",
-               "description":"Akustische Geschichtenerzähler mit skaldischen Versen. Zwei Stimmen, Lyra, Knochenflöte – keine Verstärkung außer einem einzelnen Bändchenmikrofon."
-            },
-            {
-               "id":"a8",
-               "description":"Rein weibliches symphonisches Metal-Sextett. Chorgesang, zwei Gitarren, Harfe und eine Bühnenshow mit Speertanz."
-            },
-            {
-               "id":"a9",
-               "description":"Erdtöniger Doom aus dem Schwarzwald. Gletscherlangsam, orgelbetrieben und am besten bei Sonnenuntergang zu hören."
-            },
-            {
-               "id":"a10",
-               "description":"Sea-Shanty-Hardcore mit Mandoline und Trompete. Der Headliner, für den alle den Merchandise-Stand verlassen."
-            }
-         ],
-         "news":[
-            {
-               "id":"n1",
-               "title":"Tickets im Verkauf",
-               "body":"Drei-Tages-Pässe und Einzeltageskarten sind jetzt erhältlich. Frühbucherpreise enden am 01.04.2026."
-            },
-            {
-               "id":"n2",
-               "title":"Campingplätze geöffnet",
-               "body":"Begrenzte Campingplätze neben der Langhalle sind jetzt buchbar. Wer zuerst kommt, mahlt zuerst."
-            },
-            {
-               "id":"n3",
-               "title":"Vollständige Reihenfolge veröffentlicht",
-               "body":"Die vollständige Auftrittsliste für alle drei Tage ist jetzt in der App verfügbar."
-            }
-         ],
-         "links":[
-            {
-               "id":"l3",
-               "label":"Anreise & Camping"
-            },
-            {
-               "id":"la1",
-               "label":"Offizielle Website"
-            }
-         ],
-         "gigs":[
-            {
-               "id":"g1",
-               "annotation":"Eröffnungssegen vor dem ersten Ton."
-            },
-            {
-               "id":"g7",
-               "annotation":"Slot getauscht mit Ragnar's Wrath."
-            },
-            {
-               "id":"g8",
-               "annotation":"Slot getauscht mit Valkyrjar."
-            },
-            {
-               "id":"g10",
-               "annotation":"Abschluss-Set des Festivals."
-            }
-         ]
-      }
-   ]
+  "year": 2026,
+  "defaultLang": "en",
+  "runningOrderExists": true,
+  "utcOffsetHours": 2,
+  "festivalDays": [
+    "2026-07-10",
+    "2026-07-11",
+    "2026-07-12"
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Tickets on sale",
+      "body": "Three-day passes and single-day tickets are available now. Early-bird pricing ends 2026-04-01.",
+      "date": "2026-02-15"
+    },
+    {
+      "id": "n2",
+      "title": "Camping spots opened",
+      "body": "Limited camping spots adjacent to the long-hall are now bookable. First-come, first-served.",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "n3",
+      "title": "Full running order published",
+      "body": "The complete running order for all three days is now live in the app.",
+      "date": "2026-05-01"
+    }
+  ],
+  "links": [
+    {
+      "id": "l1",
+      "label": "Website",
+      "url": "https://ragnaroek-festival.example/"
+    },
+    {
+      "id": "l2",
+      "label": "Tickets",
+      "url": "https://ragnaroek-festival.example/tickets"
+    },
+    {
+      "id": "l3",
+      "label": "Travel & Camping",
+      "url": "https://ragnaroek-festival.example/travel"
+    },
+    {
+      "id": "l4",
+      "label": "Instagram",
+      "url": "https://instagram.com/ragnaroek_festival_example",
+      "type": "instagram"
+    },
+    {
+      "id": "l5",
+      "label": "YouTube",
+      "url": "https://youtube.com/@ragnaroek_festival_example",
+      "type": "youtube"
+    },
+    {
+      "id": "l6",
+      "label": "Facebook",
+      "url": "https://facebook.com/ragnaroek.festival.example",
+      "type": "facebook"
+    },
+    {
+      "id": "la1",
+      "label": "Official Site",
+      "url": "https://berserkr.example.com",
+      "artistId": "a1"
+    },
+    {
+      "id": "la2",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/berserkr-example",
+      "type": "spotify",
+      "artistId": "a1"
+    },
+    {
+      "id": "la3",
+      "label": "Bandcamp",
+      "url": "https://berserkr.bandcamp.com",
+      "type": "bandcamp",
+      "artistId": "a1"
+    },
+    {
+      "id": "la4",
+      "label": "Instagram",
+      "url": "https://instagram.com/bjornholm_example",
+      "type": "instagram",
+      "artistId": "a2"
+    },
+    {
+      "id": "la5",
+      "label": "Bandcamp",
+      "url": "https://bjornholm.bandcamp.com",
+      "type": "bandcamp",
+      "artistId": "a2"
+    },
+    {
+      "id": "la6",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/drekka-sjor-example",
+      "type": "spotify",
+      "artistId": "a3"
+    },
+    {
+      "id": "la7",
+      "label": "YouTube",
+      "url": "https://youtube.com/@drekkasjor_example",
+      "type": "youtube",
+      "artistId": "a3"
+    },
+    {
+      "id": "la8",
+      "label": "Facebook",
+      "url": "https://facebook.com/frostgiants.example",
+      "type": "facebook",
+      "artistId": "a4"
+    },
+    {
+      "id": "la9",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/frost-giants-example",
+      "type": "soundcloud",
+      "artistId": "a4"
+    },
+    {
+      "id": "la10",
+      "label": "Instagram",
+      "url": "https://instagram.com/mjolnir_mark_example",
+      "type": "instagram",
+      "artistId": "a5"
+    },
+    {
+      "id": "la11",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/mjolnir-mark-example",
+      "type": "spotify",
+      "artistId": "a5"
+    },
+    {
+      "id": "la12",
+      "label": "YouTube",
+      "url": "https://youtube.com/@ragnarswrath_example",
+      "type": "youtube",
+      "artistId": "a6"
+    },
+    {
+      "id": "la13",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/ragnars-wrath-example",
+      "type": "spotify",
+      "artistId": "a6"
+    },
+    {
+      "id": "la14",
+      "label": "Bandcamp",
+      "url": "https://skaldsofasgard.bandcamp.com",
+      "type": "bandcamp",
+      "artistId": "a7"
+    },
+    {
+      "id": "la15",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/valkyrjar-example",
+      "type": "spotify",
+      "artistId": "a8"
+    },
+    {
+      "id": "la16",
+      "label": "YouTube",
+      "url": "https://youtube.com/@valkyrjar_example",
+      "type": "youtube",
+      "artistId": "a8"
+    },
+    {
+      "id": "la17",
+      "label": "Instagram",
+      "url": "https://instagram.com/valkyrjar_example",
+      "type": "instagram",
+      "artistId": "a8"
+    },
+    {
+      "id": "la18",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/yggdrasils-roots-example",
+      "type": "soundcloud",
+      "artistId": "a9"
+    },
+    {
+      "id": "la19",
+      "label": "Bandcamp",
+      "url": "https://yggdrasilsroots.bandcamp.com",
+      "type": "bandcamp",
+      "artistId": "a9"
+    },
+    {
+      "id": "la20",
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/black-sails-example",
+      "type": "spotify",
+      "artistId": "a10"
+    },
+    {
+      "id": "la21",
+      "label": "YouTube",
+      "url": "https://youtube.com/@blacksails_example",
+      "type": "youtube",
+      "artistId": "a10"
+    },
+    {
+      "id": "la22",
+      "label": "Instagram",
+      "url": "https://instagram.com/blacksails_example",
+      "type": "instagram",
+      "artistId": "a10"
+    },
+    {
+      "id": "la23",
+      "label": "Discord",
+      "url": "https://discord.gg/blacksails-example",
+      "type": "discord",
+      "artistId": "a10"
+    }
+  ],
+  "artists": [
+    {
+      "id": "a1",
+      "name": "Berserkr",
+      "imageUrl": "https://metalrun.de/rf/10.png",
+      "description": "Thunderous Norwegian folk-metal quartet drawing on saga poetry and battle-march drum patterns. Their live shows close with a wall of horn calls.",
+      "dayDate": "2026-07-12",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "annotation": null
+    },
+    {
+      "id": "a2",
+      "name": "Bjornholm",
+      "imageUrl": "https://metalrun.de/rf/09.png",
+      "description": "Atmospheric black-metal duo from the Faroe Islands. Glacial guitars and clean baritone vocals over slow, deliberate rhythms.",
+      "dayDate": "2026-07-11",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "annotation": null
+    },
+    {
+      "id": "a3",
+      "name": "Drekka Sjór",
+      "imageUrl": "https://metalrun.de/rf/08.png",
+      "description": "Icelandic post-rock with rune-based song titles and an obsession for nine-minute crescendos.",
+      "dayDate": "2026-07-10",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "annotation": null
+    },
+    {
+      "id": "a4",
+      "name": "Frost Giants",
+      "imageUrl": "https://metalrun.de/rf/07.png",
+      "description": "Six-piece pagan-folk ensemble. Nyckelharpa, frame drums, throat-singing and a stage built around a forge anvil.",
+      "dayDate": "2026-07-10",
+      "startTime": "23:00",
+      "endTime": "00:30",
+      "annotation": null
+    },
+    {
+      "id": "a5",
+      "name": "Mjölnir Mark",
+      "imageUrl": "https://metalrun.de/rf/06.png",
+      "description": "Power-trio playing thunder-soaked stoner rock. Riffs broad enough to drag a longship across a dry beach.",
+      "dayDate": "2026-07-11",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "annotation": null
+    },
+    {
+      "id": "a6",
+      "name": "Ragnar's Wrath",
+      "imageUrl": "https://metalrun.de/rf/05.png",
+      "description": "Crossover thrash from Gothenburg with hardcore breakdowns and a frontman who circles the pit barefoot.",
+      "dayDate": "2026-07-12",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "annotation": "Swapped slots with Valkyrjar."
+    },
+    {
+      "id": "a7",
+      "name": "Skalds of Asgard",
+      "imageUrl": "https://metalrun.de/rf/04.png",
+      "description": "Acoustic story-singers performing skaldic verse. Two voices, lyre, bone flute, no amplification beyond a single ribbon mic.",
+      "dayDate": "2026-07-10",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "annotation": "Opening blessing performed before the first note."
+    },
+    {
+      "id": "a8",
+      "name": "Valkyrjar",
+      "imageUrl": "https://metalrun.de/rf/03.png",
+      "description": "All-female symphonic metal sextet. Choral vocals, twin guitars, harp, and a stage show punctuated by spear-dancing.",
+      "dayDate": "2026-07-11",
+      "startTime": "00:40",
+      "endTime": "01:30",
+      "annotation": "Swapped slots with Ragnar's Wrath."
+    },
+    {
+      "id": "a9",
+      "name": "Yggdrasil's Roots",
+      "imageUrl": "https://metalrun.de/rf/02.png",
+      "description": "Earth-toned doom from the Black Forest. Glacially slow, organ-driven, and best heard at sunset.",
+      "dayDate": "2026-07-11",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "annotation": null
+    },
+    {
+      "id": "a10",
+      "name": "Black Sails",
+      "imageUrl": "https://metalrun.de/rf/01.png",
+      "description": "Sea-shanty hardcore with mandolin and trumpet. The headliner everyone leaves the merch tent for.",
+      "dayDate": "2026-07-12",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "annotation": "Festival-closing set."
+    }
+  ],
+  "translations": [
+    {
+      "lang": "de",
+      "artists": [
+        {
+          "id": "a1",
+          "description": "Donnerndes norwegisches Folk-Metal-Quartett, das Sagenpoesie und Schlachtzug-Trommelrhythmen vereint. Ihre Live-Shows enden mit einem Chor aus Hornrufen."
+        },
+        {
+          "id": "a2",
+          "description": "Atmosphärisches Black-Metal-Duo von den Färöer-Inseln. Eisige Gitarren und klarer Baritongesang über langsamen, bedächtigen Rhythmen."
+        },
+        {
+          "id": "a3",
+          "description": "Isländischer Post-Rock mit runenbasierten Songtiteln und einer Vorliebe für neunminütige Crescendos."
+        },
+        {
+          "id": "a4",
+          "description": "Sechsköpfiges Pagan-Folk-Ensemble. Nyckelharpa, Rahmentrommeln, Obertongesang und eine Bühne rund um einen Schmiedeamboss."
+        },
+        {
+          "id": "a5",
+          "description": "Power-Trio mit donnerschwangerem Stoner Rock. Riffs, breit genug, um ein Langschiff über einen trockenen Strand zu ziehen."
+        },
+        {
+          "id": "a6",
+          "description": "Crossover-Thrash aus Göteborg mit Hardcore-Breakdowns und einem Frontmann, der den Pit barfuß umkreist.",
+          "annotation": "Slot getauscht mit Valkyrjar."
+        },
+        {
+          "id": "a7",
+          "description": "Akustische Geschichtenerzähler mit skaldischen Versen. Zwei Stimmen, Lyra, Knochenflöte – keine Verstärkung außer einem einzelnen Bändchenmikrofon.",
+          "annotation": "Eröffnungssegen vor dem ersten Ton."
+        },
+        {
+          "id": "a8",
+          "description": "Rein weibliches symphonisches Metal-Sextett. Chorgesang, zwei Gitarren, Harfe und eine Bühnenshow mit Speertanz.",
+          "annotation": "Slot getauscht mit Ragnar's Wrath."
+        },
+        {
+          "id": "a9",
+          "description": "Erdtöniger Doom aus dem Schwarzwald. Gletscherlangsam, orgelbetrieben und am besten bei Sonnenuntergang zu hören."
+        },
+        {
+          "id": "a10",
+          "description": "Sea-Shanty-Hardcore mit Mandoline und Trompete. Der Headliner, für den alle den Merchandise-Stand verlassen.",
+          "annotation": "Abschluss-Set des Festivals."
+        }
+      ],
+      "news": [
+        {
+          "id": "n1",
+          "title": "Tickets im Verkauf",
+          "body": "Drei-Tages-Pässe und Einzeltageskarten sind jetzt erhältlich. Frühbucherpreise enden am 01.04.2026."
+        },
+        {
+          "id": "n2",
+          "title": "Campingplätze geöffnet",
+          "body": "Begrenzte Campingplätze neben der Langhalle sind jetzt buchbar. Wer zuerst kommt, mahlt zuerst."
+        },
+        {
+          "id": "n3",
+          "title": "Vollständige Reihenfolge veröffentlicht",
+          "body": "Die vollständige Auftrittsliste für alle drei Tage ist jetzt in der App verfügbar."
+        }
+      ],
+      "links": [
+        {
+          "id": "l3",
+          "label": "Anreise & Camping"
+        },
+        {
+          "id": "la1",
+          "label": "Offizielle Website"
+        }
+      ]
+    }
+  ]
 }
