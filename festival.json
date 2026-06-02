@@ -8,6 +8,10 @@
     "2026-07-11",
     "2026-07-12"
   ],
+  "stages": [
+    { "id": "s1", "name": "Main Stage" },
+    { "id": "s2", "name": "Alterna Stage" }
+  ],
   "news": [
     {
       "id": "n1",
@@ -229,9 +233,10 @@
       "name": "Berserkr",
       "imageUrl": "https://metalrun.de/rf/10.png",
       "description": "Thunderous Norwegian folk-metal quartet drawing on saga poetry and battle-march drum patterns. Their live shows close with a wall of horn calls.",
+      "stageId": "s1",
       "dayDate": "2026-07-12",
       "startTime": "17:30",
-      "endTime": "18:30",
+      "endTime": "18:20",
       "annotation": null
     },
     {
@@ -239,6 +244,7 @@
       "name": "Bjornholm",
       "imageUrl": "https://metalrun.de/rf/09.png",
       "description": "Atmospheric black-metal duo from the Faroe Islands. Glacial guitars and clean baritone vocals over slow, deliberate rhythms.",
+      "stageId": "s1",
       "dayDate": "2026-07-11",
       "startTime": "16:00",
       "endTime": "17:00",
@@ -249,6 +255,7 @@
       "name": "Drekka Sjór",
       "imageUrl": "https://metalrun.de/rf/08.png",
       "description": "Icelandic post-rock with rune-based song titles and an obsession for nine-minute crescendos.",
+      "stageId": "s1",
       "dayDate": "2026-07-10",
       "startTime": "19:30",
       "endTime": "20:30",
@@ -259,6 +266,7 @@
       "name": "Frost Giants",
       "imageUrl": "https://metalrun.de/rf/07.png",
       "description": "Six-piece pagan-folk ensemble. Nyckelharpa, frame drums, throat-singing and a stage built around a forge anvil.",
+      "stageId": "s1",
       "dayDate": "2026-07-10",
       "startTime": "23:00",
       "endTime": "00:30",
@@ -269,6 +277,7 @@
       "name": "Mjölnir Mark",
       "imageUrl": "https://metalrun.de/rf/06.png",
       "description": "Power-trio playing thunder-soaked stoner rock. Riffs broad enough to drag a longship across a dry beach.",
+      "stageId": "s1",
       "dayDate": "2026-07-11",
       "startTime": "19:00",
       "endTime": "20:00",
@@ -279,9 +288,10 @@
       "name": "Ragnar's Wrath",
       "imageUrl": "https://metalrun.de/rf/05.png",
       "description": "Crossover thrash from Gothenburg with hardcore breakdowns and a frontman who circles the pit barefoot.",
+      "stageId": "s2",
       "dayDate": "2026-07-12",
-      "startTime": "16:00",
-      "endTime": "17:00",
+      "startTime": "18:00",
+      "endTime": "18:40",
       "annotation": "Swapped slots with Valkyrjar."
     },
     {
@@ -289,6 +299,7 @@
       "name": "Skalds of Asgard",
       "imageUrl": "https://metalrun.de/rf/04.png",
       "description": "Acoustic story-singers performing skaldic verse. Two voices, lyre, bone flute, no amplification beyond a single ribbon mic.",
+      "stageId": "s1",
       "dayDate": "2026-07-10",
       "startTime": "18:00",
       "endTime": "19:00",
@@ -299,6 +310,7 @@
       "name": "Valkyrjar",
       "imageUrl": "https://metalrun.de/rf/03.png",
       "description": "All-female symphonic metal sextet. Choral vocals, twin guitars, harp, and a stage show punctuated by spear-dancing.",
+      "stageId": "s2",
       "dayDate": "2026-07-11",
       "startTime": "00:40",
       "endTime": "01:30",
@@ -309,6 +321,7 @@
       "name": "Yggdrasil's Roots",
       "imageUrl": "https://metalrun.de/rf/02.png",
       "description": "Earth-toned doom from the Black Forest. Glacially slow, organ-driven, and best heard at sunset.",
+      "stageId": "s2",
       "dayDate": "2026-07-11",
       "startTime": "17:30",
       "endTime": "18:30",
@@ -319,6 +332,7 @@
       "name": "Black Sails",
       "imageUrl": "https://metalrun.de/rf/01.png",
       "description": "Sea-shanty hardcore with mandolin and trumpet. The headliner everyone leaves the merch tent for.",
+      "stageId": "s1",
       "dayDate": "2026-07-12",
       "startTime": "19:00",
       "endTime": "21:00",
