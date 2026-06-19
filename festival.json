@@ -10,7 +10,8 @@
   ],
   "stages": [
     { "id": "s1", "name": "Main Stage" },
-    { "id": "s2", "name": "Alterna Stage" }
+    { "id": "s2", "name": "Alterna Stage" },
+    { "id": "s3", "name": "Talent Stage" }
   ],
   "news": [
     {
@@ -233,10 +234,10 @@
       "name": "Berserkr",
       "imageUrl": "https://metalrun.de/rf/10.png",
       "description": "Thunderous Norwegian folk-metal quartet drawing on saga poetry and battle-march drum patterns. Their live shows close with a wall of horn calls.",
-      "stageId": "s1",
+      "stageId": "s2",
       "dayDate": "2026-07-12",
-      "startTime": "17:30",
-      "endTime": "18:20",
+      "startTime": "17:00",
+      "endTime": "18:00",
       "annotation": null
     },
     {
@@ -246,8 +247,8 @@
       "description": "Atmospheric black-metal duo from the Faroe Islands. Glacial guitars and clean baritone vocals over slow, deliberate rhythms.",
       "stageId": "s1",
       "dayDate": "2026-07-11",
-      "startTime": "16:00",
-      "endTime": "17:00",
+      "startTime": "17:30",
+      "endTime": "18:30",
       "annotation": null
     },
     {
@@ -266,11 +267,11 @@
       "name": "Frost Giants",
       "imageUrl": "https://metalrun.de/rf/07.png",
       "description": "Six-piece pagan-folk ensemble. Nyckelharpa, frame drums, throat-singing and a stage built around a forge anvil.",
-      "stageId": "s1",
+      "stageId": "s3",
       "dayDate": "2026-07-10",
-      "startTime": "23:00",
-      "endTime": "00:30",
-      "annotation": null
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "annotation": "Ear protection strongly advised for front-row positions."
     },
     {
       "id": "a5",
@@ -279,8 +280,8 @@
       "description": "Power-trio playing thunder-soaked stoner rock. Riffs broad enough to drag a longship across a dry beach.",
       "stageId": "s1",
       "dayDate": "2026-07-11",
-      "startTime": "19:00",
-      "endTime": "20:00",
+      "startTime": "20:30",
+      "endTime": "22:00",
       "annotation": null
     },
     {
@@ -288,11 +289,11 @@
       "name": "Ragnar's Wrath",
       "imageUrl": "https://metalrun.de/rf/05.png",
       "description": "Crossover thrash from Gothenburg with hardcore breakdowns and a frontman who circles the pit barefoot.",
-      "stageId": "s2",
+      "stageId": "s1",
       "dayDate": "2026-07-12",
-      "startTime": "18:00",
-      "endTime": "18:40",
-      "annotation": "Swapped slots with Valkyrjar."
+      "startTime": "17:30",
+      "endTime": "18:20",
+      "annotation": null
     },
     {
       "id": "a7",
@@ -301,8 +302,8 @@
       "description": "Acoustic story-singers performing skaldic verse. Two voices, lyre, bone flute, no amplification beyond a single ribbon mic.",
       "stageId": "s1",
       "dayDate": "2026-07-10",
-      "startTime": "18:00",
-      "endTime": "19:00",
+      "startTime": "14:30",
+      "endTime": "15:10",
       "annotation": "Opening blessing performed before the first note."
     },
     {
@@ -310,11 +311,11 @@
       "name": "Valkyrjar",
       "imageUrl": "https://metalrun.de/rf/03.png",
       "description": "All-female symphonic metal sextet. Choral vocals, twin guitars, harp, and a stage show punctuated by spear-dancing.",
-      "stageId": "s2",
+      "stageId": "s3",
       "dayDate": "2026-07-11",
-      "startTime": "00:40",
-      "endTime": "01:30",
-      "annotation": "Swapped slots with Ragnar's Wrath."
+      "startTime": "21:00",
+      "endTime": "22:40",
+      "annotation": null
     },
     {
       "id": "a9",
@@ -323,8 +324,8 @@
       "description": "Earth-toned doom from the Black Forest. Glacially slow, organ-driven, and best heard at sunset.",
       "stageId": "s2",
       "dayDate": "2026-07-11",
-      "startTime": "17:30",
-      "endTime": "18:30",
+      "startTime": "19:00",
+      "endTime": "20:10",
       "annotation": null
     },
     {
@@ -334,9 +335,229 @@
       "description": "Sea-shanty hardcore with mandolin and trumpet. The headliner everyone leaves the merch tent for.",
       "stageId": "s1",
       "dayDate": "2026-07-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
+      "startTime": "21:30",
+      "endTime": "23:30",
       "annotation": "Festival-closing set."
+    },
+    {
+      "id": "a11",
+      "name": "Ironveil",
+      "imageUrl": "https://metalrun.de/rf/11.png",
+      "description": "Dark atmospheric post-black metal from the Norwegian highlands. Cascading tremolo riffs dissolve into drone passages that feel carved from glacier ice.",
+      "stageId": "s1",
+      "dayDate": "2026-07-10",
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "annotation": null
+    },
+    {
+      "id": "a12",
+      "name": "Shieldwall",
+      "imageUrl": "https://metalrun.de/rf/12.png",
+      "description": "Battle-hardened crust-punk from Copenhagen. Four-chord ferocity meets marching-drum thunder — the kind of band that starts a wall of death with a single glare.",
+      "stageId": "s3",
+      "dayDate": "2026-07-12",
+      "startTime": "16:00",
+      "endTime": "16:50",
+      "annotation": null
+    },
+    {
+      "id": "a13",
+      "name": "Runecaster",
+      "imageUrl": "https://metalrun.de/rf/13.png",
+      "description": "Swedish folk-metal trio weaving elder runic verse into their lyrics. A hurdy-gurdy player doubles on lap steel for extended interlude pieces.",
+      "stageId": "s1",
+      "dayDate": "2026-07-10",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "annotation": null
+    },
+    {
+      "id": "a14",
+      "name": "Tidecaller",
+      "imageUrl": "https://metalrun.de/rf/14.png",
+      "description": "Dark-wave duo from the Shetland Islands. Synth bass and reverb-drenched vocals summon storms from behind a wall of fog machines.",
+      "stageId": "s2",
+      "dayDate": "2026-07-10",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "annotation": null
+    },
+    {
+      "id": "a15",
+      "name": "Skullberg",
+      "imageUrl": "https://metalrun.de/rf/15.png",
+      "description": "Finnish Viking death metal with pinch harmonics you feel three rows back. Epic song structures last well past the ten-minute mark.",
+      "stageId": "s3",
+      "dayDate": "2026-07-11",
+      "startTime": "15:40",
+      "endTime": "16:40",
+      "annotation": null
+    },
+    {
+      "id": "a16",
+      "name": "Nordheim",
+      "imageUrl": "https://metalrun.de/rf/16.png",
+      "description": "Symphonic Viking metal flagship from Oslo. A thirty-piece touring string section, operatic baritone, and a stage lit entirely by fire baskets.",
+      "stageId": "s3",
+      "dayDate": "2026-07-12",
+      "startTime": "22:00",
+      "endTime": "00:00",
+      "annotation": "Fire baskets ignited at 22:00 sharp. No standing within 2 m of the stage edge."
+    },
+    {
+      "id": "a17",
+      "name": "Eitr's Venom",
+      "imageUrl": "https://metalrun.de/rf/17.png",
+      "description": "Sludge-doom quartet from Hamburg. Feedback-drenched walls of sound played at the tempo of a dying tide.",
+      "stageId": "s2",
+      "dayDate": "2026-07-10",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "annotation": null
+    },
+    {
+      "id": "a18",
+      "name": "Galdrastafr",
+      "imageUrl": "https://metalrun.de/rf/18.png",
+      "description": "One-man ritual dark ambient project. Live sets involve handmade stave instruments, bone percussion, and field recordings from Icelandic lava fields.",
+      "stageId": "s2",
+      "dayDate": "2026-07-10",
+      "startTime": "15:00",
+      "endTime": "15:50",
+      "annotation": "Stave instruments ritually burned at set close."
+    },
+    {
+      "id": "a19",
+      "name": "Stormwulf",
+      "imageUrl": "https://metalrun.de/rf/19.png",
+      "description": "Raw black metal from northern Finland. No stage lighting, no banter — just blast beats erupting from the darkness.",
+      "stageId": "s3",
+      "dayDate": "2026-07-10",
+      "startTime": "17:20",
+      "endTime": "18:10",
+      "annotation": null
+    },
+    {
+      "id": "a20",
+      "name": "Ashen Völva",
+      "imageUrl": "https://metalrun.de/rf/20.png",
+      "description": "Ethereal goth duo from Stockholm. Cello-driven soundscapes weave through whispered prophecy poetry and cinematic percussion.",
+      "stageId": "s2",
+      "dayDate": "2026-07-11",
+      "startTime": "16:30",
+      "endTime": "17:40",
+      "annotation": null
+    },
+    {
+      "id": "a21",
+      "name": "Grimnir's Pyre",
+      "imageUrl": "https://metalrun.de/rf/21.png",
+      "description": "Melodic death metal from Aarhus. Soaring guitar harmonies contrast with guttural vocals recounting tales of the hanged god.",
+      "stageId": "s1",
+      "dayDate": "2026-07-12",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "annotation": null
+    },
+    {
+      "id": "a22",
+      "name": "Serpent's Wake",
+      "imageUrl": "https://metalrun.de/rf/22.png",
+      "description": "Post-metal five-piece from Rotterdam. Songs build patiently for twelve minutes before collapsing into thunderous release.",
+      "stageId": "s3",
+      "dayDate": "2026-07-11",
+      "startTime": "17:10",
+      "endTime": "18:10",
+      "annotation": null
+    },
+    {
+      "id": "a23",
+      "name": "Wyrdweavers",
+      "imageUrl": "https://metalrun.de/rf/23.png",
+      "description": "Medieval folk ensemble from Canterbury. Bagpipes, rebec, and tabor drum wrapped in haunting three-part harmony.",
+      "stageId": "s1",
+      "dayDate": "2026-07-11",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "annotation": null
+    },
+    {
+      "id": "a24",
+      "name": "Helbound",
+      "imageUrl": "https://metalrun.de/rf/24.png",
+      "description": "Traditional doom metal from Birmingham. Slow, crushing riffs and reverb-soaked vocals in the grand tradition of the genre's birthplace.",
+      "stageId": "s2",
+      "dayDate": "2026-07-11",
+      "startTime": "22:30",
+      "endTime": "00:00",
+      "annotation": null
+    },
+    {
+      "id": "a25",
+      "name": "Blóðörn",
+      "imageUrl": "https://metalrun.de/rf/25.png",
+      "description": "Extreme metal project from Reykjavik. Intense, technical, and lyrically rooted in blood-eagle mythology. Not for the faint-hearted.",
+      "stageId": "s2",
+      "dayDate": "2026-07-12",
+      "startTime": "14:30",
+      "endTime": "15:20",
+      "annotation": null
+    },
+    {
+      "id": "a26",
+      "name": "Embla's Kin",
+      "imageUrl": "https://metalrun.de/rf/26.png",
+      "description": "Neo-folk duo from the Black Forest. Acoustic guitar, mountain dulcimer, and two voices that sound like they were born from the same root.",
+      "stageId": "s3",
+      "dayDate": "2026-07-10",
+      "startTime": "15:30",
+      "endTime": "16:20",
+      "annotation": null
+    },
+    {
+      "id": "a27",
+      "name": "Óðinn's Eye",
+      "imageUrl": "https://metalrun.de/rf/27.png",
+      "description": "Progressive metal quintet from Helsinki. Time-signature games, extended improvisations, and a fifteen-minute centrepiece suite in every set.",
+      "stageId": "s2",
+      "dayDate": "2026-07-12",
+      "startTime": "20:00",
+      "endTime": "21:40",
+      "annotation": null
+    },
+    {
+      "id": "a28",
+      "name": "Skaldenfang",
+      "imageUrl": "https://metalrun.de/rf/28.png",
+      "description": "Folk-punk band from Malmö. Rowdy crowd participation, accordion breakdowns, and enough mead-hall energy to empty a keg in a single set.",
+      "stageId": "s2",
+      "dayDate": "2026-07-11",
+      "startTime": "14:00",
+      "endTime": "14:50",
+      "annotation": "Bring your singing voice — the encore is audience-only."
+    },
+    {
+      "id": "a29",
+      "name": "Draugar",
+      "imageUrl": "https://metalrun.de/rf/29.png",
+      "description": "Funeral doom from Bergen. Playing tempo measured in decades, the band summons a grief so dense it has its own gravity.",
+      "stageId": "s3",
+      "dayDate": "2026-07-12",
+      "startTime": "17:20",
+      "endTime": "18:40",
+      "annotation": "No applause requested. Sit in silence."
+    },
+    {
+      "id": "a30",
+      "name": "Thunderhide",
+      "imageUrl": "https://metalrun.de/rf/30.png",
+      "description": "Heavy-rock power trio from Cologne. Stoner grooves, fuzz-drenched bass, and a drummer with a kick-drum pattern that rattles loose fillings.",
+      "stageId": "s3",
+      "dayDate": "2026-07-12",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "annotation": null
     }
   ],
   "translations": [
@@ -357,7 +578,8 @@
         },
         {
           "id": "a4",
-          "description": "Sechsköpfiges Pagan-Folk-Ensemble. Nyckelharpa, Rahmentrommeln, Obertongesang und eine Bühne rund um einen Schmiedeamboss."
+          "description": "Sechsköpfiges Pagan-Folk-Ensemble. Nyckelharpa, Rahmentrommeln, Obertongesang und eine Bühne rund um einen Schmiedeamboss.",
+          "annotation": "Gehörschutz für Frontrow-Positionen dringend empfohlen."
         },
         {
           "id": "a5",
@@ -365,18 +587,16 @@
         },
         {
           "id": "a6",
-          "description": "Crossover-Thrash aus Göteborg mit Hardcore-Breakdowns und einem Frontmann, der den Pit barfuß umkreist.",
-          "annotation": "Slot getauscht mit Valkyrjar."
+          "description": "Crossover-Thrash aus Göteborg mit Hardcore-Breakdowns und einem Frontmann, der den Pit barfuß umkreist."
         },
         {
           "id": "a7",
           "description": "Akustische Geschichtenerzähler mit skaldischen Versen. Zwei Stimmen, Lyra, Knochenflöte – keine Verstärkung außer einem einzelnen Bändchenmikrofon.",
-          "annotation": "Eröffnungssegen vor dem ersten Ton."
+          "annotation": "Eröffnungssegen wird vor dem ersten Ton dargeboten."
         },
         {
           "id": "a8",
-          "description": "Rein weibliches symphonisches Metal-Sextett. Chorgesang, zwei Gitarren, Harfe und eine Bühnenshow mit Speertanz.",
-          "annotation": "Slot getauscht mit Ragnar's Wrath."
+          "description": "Rein weibliches symphonisches Metal-Sextett. Chorgesang, zwei Gitarren, Harfe und eine Bühnenshow mit Speertanz."
         },
         {
           "id": "a9",
@@ -385,7 +605,91 @@
         {
           "id": "a10",
           "description": "Sea-Shanty-Hardcore mit Mandoline und Trompete. Der Headliner, für den alle den Merchandise-Stand verlassen.",
-          "annotation": "Abschluss-Set des Festivals."
+          "annotation": "Das abschließende Set des Festivals."
+        },
+        {
+          "id": "a11",
+          "description": "Atmosphärischer Post-Black-Metal aus den norwegischen Hochlagen. Kaskadierendes Tremolo-Picking löst sich in Drone-Passagen auf, die wie aus Gletschereis gehauen wirken."
+        },
+        {
+          "id": "a12",
+          "description": "Hartgesottener Crust-Punk aus Kopenhagen. Vier-Akkord-Furor trifft Marschdonnertrommel – die Band, die mit einem einzigen Blick eine Wall of Death auslöst."
+        },
+        {
+          "id": "a13",
+          "description": "Schwedisches Folk-Metal-Trio, das altnordische Runenverse in seine Texte einwebt. Der Drehleierspieler wechselt für ausgedehnte Zwischenspiele zur Lap-Steel-Gitarre."
+        },
+        {
+          "id": "a14",
+          "description": "Darkwave-Duo von den Shetlandinseln. Synth-Bass und hallgetränkte Vocals beschwören Stürme hinter einer Wand aus Nebelmaschinen."
+        },
+        {
+          "id": "a15",
+          "description": "Finnischer Viking-Death-Metal mit Pinch-Harmonics, die man noch drei Reihen weiter hinten spürt. Epische Songstrukturen, die locker die Zehnminutenmarke übersteigen."
+        },
+        {
+          "id": "a16",
+          "description": "Symphonisches Viking-Metal-Flaggschiff aus Oslo. Dreißigköpfiges Streichorchester auf Tournee, dramatischer Opernbariton und eine ausschließlich durch Feuerkörbe beleuchtete Bühne.",
+          "annotation": "Feuerkörbe entzünden sich um 22:00 Uhr. Kein Aufenthalt innerhalb von 2 m vom Bühnenrand."
+        },
+        {
+          "id": "a17",
+          "description": "Sludge-Doom-Quartett aus Hamburg. Feedback-getränkte Klangtürme im Tempo einer sterbenden Flut."
+        },
+        {
+          "id": "a18",
+          "description": "Einmann-Projekt für rituellen Dark Ambient. Live-Sets bestehen aus handgefertigten Stabinstrumenten, Knochendrums und Feldaufnahmen von isländischen Lavafeldern.",
+          "annotation": "Stabinstrumente werden am Ende des Sets rituell verbrannt."
+        },
+        {
+          "id": "a19",
+          "description": "Roher Black Metal aus Nordfinnland. Kein Bühnenlicht, kein Smalltalk – nur Blastbeats, die aus der Dunkelheit hervorbrechen."
+        },
+        {
+          "id": "a20",
+          "description": "Ätherisches Gothic-Duo aus Stockholm. Cello-getragene Klanglandschaften verweben sich mit geflüsterten Prophezeiungsgedichten und kinematischen Percussions."
+        },
+        {
+          "id": "a21",
+          "description": "Melodic Death Metal aus Aarhus. Schwebende Gitarrenharmonien kontrastieren mit tiefem Grunzgesang über die Geschichten des Gehängten Gottes."
+        },
+        {
+          "id": "a22",
+          "description": "Post-Metal-Fünfer aus Rotterdam. Songs bauen sich geduldig über zwölf Minuten auf, bevor sie in donnernder Entladung zusammenbrechen."
+        },
+        {
+          "id": "a23",
+          "description": "Mittelalterliches Folk-Ensemble aus Canterbury. Dudelsack, Rebec und Rahmenwerbetrommel umhüllt von betörender dreistimmiger Harmonie."
+        },
+        {
+          "id": "a24",
+          "description": "Traditioneller Doom Metal aus Birmingham. Langsame, erdrückende Riffs und hallgetränkte Vocals in der Hochtradition des Geburtsorts des Genres."
+        },
+        {
+          "id": "a25",
+          "description": "Extremmetal-Projekt aus Reykjavik. Intensiv, technisch und lyrisch in der Blutaar-Mythologie verwurzelt. Nichts für schwache Nerven."
+        },
+        {
+          "id": "a26",
+          "description": "Neo-Folk-Duo aus dem Schwarzwald. Akustikgitarre, Bergzither und zwei Stimmen, die klingen, als wären sie aus derselben Wurzel gewachsen."
+        },
+        {
+          "id": "a27",
+          "description": "Progressive Metal-Quintett aus Helsinki. Taktartenspiele, ausgedehnte Improvisationen und eine fünfzehnminütige Suite als Herzstück jedes Sets."
+        },
+        {
+          "id": "a28",
+          "description": "Folk-Punk-Band aus Malmö. Ausgelassene Mitsing-Momente, Akkordeon-Breaks und genug Methalle-Energie, um ein ganzes Fass in einem Set zu leeren.",
+          "annotation": "Bring deine Singstimme – die Zugabe gehört dem Publikum."
+        },
+        {
+          "id": "a29",
+          "description": "Funeral Doom aus Bergen. Im Tempo von Jahrzehnten gemessen, beschwört die Band eine Trauer, die so dicht ist, dass sie ihre eigene Schwerkraft hat.",
+          "annotation": "Kein Applaus erwünscht. Bitte in Stille verweilen."
+        },
+        {
+          "id": "a30",
+          "description": "Heavy-Rock-Power-Trio aus Köln. Stoner-Grooves, fuzzgesättigter Bass und ein Schlagzeuger mit einem Bassdrum-Muster, das Zahnfüllungen lockert."
         }
       ],
       "news": [
