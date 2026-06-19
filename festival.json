@@ -241,7 +241,7 @@
     {
       "id": "a1",
       "name": "Berserkr",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a1.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a01.png",
       "description": "Thunderous Norwegian folk-metal quartet drawing on saga poetry and battle-march drum patterns. Their live shows close with a wall of horn calls.",
       "stageId": "s2",
       "dayDate": "2026-07-12",
@@ -252,7 +252,7 @@
     {
       "id": "a2",
       "name": "Bjornholm",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a2.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a02.png",
       "description": "Atmospheric black-metal duo from the Faroe Islands. Glacial guitars and clean baritone vocals over slow, deliberate rhythms.",
       "stageId": "s1",
       "dayDate": "2026-07-11",
@@ -263,7 +263,7 @@
     {
       "id": "a3",
       "name": "Drekka Sjór",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a3.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a03.png",
       "description": "Icelandic post-rock with rune-based song titles and an obsession for nine-minute crescendos.",
       "stageId": "s1",
       "dayDate": "2026-07-10",
@@ -274,7 +274,7 @@
     {
       "id": "a4",
       "name": "Frost Giants",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a4.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a04.png",
       "description": "Six-piece pagan-folk ensemble. Nyckelharpa, frame drums, throat-singing and a stage built around a forge anvil.",
       "stageId": "s3",
       "dayDate": "2026-07-10",
@@ -285,7 +285,7 @@
     {
       "id": "a5",
       "name": "Mjölnir Mark",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a5.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a05.png",
       "description": "Power-trio playing thunder-soaked stoner rock. Riffs broad enough to drag a longship across a dry beach.",
       "stageId": "s1",
       "dayDate": "2026-07-11",
@@ -296,7 +296,7 @@
     {
       "id": "a6",
       "name": "Ragnar's Wrath",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a6.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a06.png",
       "description": "Crossover thrash from Gothenburg with hardcore breakdowns and a frontman who circles the pit barefoot.",
       "stageId": "s1",
       "dayDate": "2026-07-12",
@@ -307,7 +307,7 @@
     {
       "id": "a7",
       "name": "Skalds of Asgard",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a7.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a07.png",
       "description": "Acoustic story-singers performing skaldic verse. Two voices, lyre, bone flute, no amplification beyond a single ribbon mic.",
       "stageId": "s1",
       "dayDate": "2026-07-10",
@@ -318,7 +318,7 @@
     {
       "id": "a8",
       "name": "Valkyrjar",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a8.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a08.png",
       "description": "All-female symphonic metal sextet. Choral vocals, twin guitars, harp, and a stage show punctuated by spear-dancing.",
       "stageId": "s3",
       "dayDate": "2026-07-11",
@@ -329,7 +329,7 @@
     {
       "id": "a9",
       "name": "Yggdrasil's Roots",
-      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a9.png",
+      "imageUrl": "https://thojaw.github.io/ragnaroek-festival-data/a09.png",
       "description": "Earth-toned doom from the Black Forest. Glacially slow, organ-driven, and best heard at sunset.",
       "stageId": "s2",
       "dayDate": "2026-07-11",
